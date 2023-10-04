@@ -97,6 +97,7 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+  color: blueviolet;
 }
 
 .navbar-toggler {
