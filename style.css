@@ -40,6 +40,12 @@ p {
   text-align: center;
 }
 
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+  border-radius: 10px;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
