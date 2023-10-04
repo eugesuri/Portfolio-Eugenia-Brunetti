@@ -137,3 +137,10 @@ img {
     font-size: 48px;
   }
 }
+
+.fa-brands:hover {
+  color: rgb(19, 182, 223);
+}
+.fa-brands {
+  color: fuchsia;
+}
